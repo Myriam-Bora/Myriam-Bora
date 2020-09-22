@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 
 ### Editors
+![Eclipse](http://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse&logoColor=4641D9)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
