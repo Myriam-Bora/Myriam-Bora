@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ### Framework	
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+ ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 
 ### Editors
@@ -47,8 +48,7 @@ Here are some ideas to get you started:
 ------------------- 
 
 # What I want to do next.. 📖
- Frontend development 
- ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+ Framework 
  ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
 
